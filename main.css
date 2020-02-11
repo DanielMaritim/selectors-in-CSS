@@ -1,0 +1,16 @@
+p {
+	text-align:center;
+	/*element selector*/
+}
+#selector {
+	color:blue;
+	/*id selector*/
+}
+.one {
+	text-align:right;
+	color:green;
+	/*class selector*/
+}
+p,h1 {
+	/*group selector*/
+}
